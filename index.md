@@ -1,6 +1,3 @@
----
-layout: default
----
 
 # SAP Technical Consultant & ABAP Developer
 **4 Years of Experience | S/4HANA Specialist**
