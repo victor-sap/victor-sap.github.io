@@ -1,17 +1,9 @@
+---
+layout: default
+---
 
 # SAP Technical Consultant & ABAP Developer
 **4 Years of Experience | S/4HANA Specialist**
-
----
-
-### Professional Profile
-I specialize in transforming complex business requirements into high-performance technical solutions within the SAP ecosystem. My focus is on modern ABAP development and S/4HANA transitions.
-
-### Technical Expertise
-*   **Core ABAP:** OO-ABAP, Report Programming, Adobe Forms.
-*   **Modern SAP:** CDS Views, OData Services, RAP/BOPF.
-*   **Integrations:** RFC, BAPI, IDoc, and REST APIs.
-*   **Modules:** Technical proficiency in MM, SD, and FI.
 
 ---
 
