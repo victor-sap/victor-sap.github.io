@@ -1,16 +1,13 @@
----
-layout: default
----
 
 # SAP Technical Consultant & ABAP Developer
 **4 Years of Experience | S/4HANA Specialist**
 
 ---
 
-### 🚀 Professional Profile
+### Professional Profile
 I specialize in transforming complex business requirements into high-performance technical solutions within the SAP ecosystem. My focus is on modern ABAP development and S/4HANA transitions.
 
-### 🛠️ Technical Expertise
+### Technical Expertise
 *   **Core ABAP:** OO-ABAP, Report Programming, Adobe Forms.
 *   **Modern SAP:** CDS Views, OData Services, RAP/BOPF.
 *   **Integrations:** RFC, BAPI, IDoc, and REST APIs.
@@ -18,14 +15,13 @@ I specialize in transforming complex business requirements into high-performance
 
 ---
 
-### 📂 Featured Project
-#### [Custom ABAP Framework Name](https://github.com/victor-sap/sugarchain)
-I developed a reusable framework for [Project Purpose]. It utilized Object-Oriented patterns to reduce code redundancy and improve system performance by 25%.
+### Featured Project
+#### [Last project](https://github.com/victor-sap/sugarchain)
 
 ---
 
 ### 📜 Verified Certifications
-*   **SAP Certified - Back-End Developer - ABAP Cloud** - [Verify Link](https://www.credly.com/badges/7f9dfb8a-8c52-4809-a09f-626276a27cd7/public_url)
+*   **SAP Certified - Back-End Developer - ABAP Cloud** - [Link](https://www.credly.com/badges/7f9dfb8a-8c52-4809-a09f-626276a27cd7/public_url)
 
 ---
 
